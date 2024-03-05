@@ -15,19 +15,19 @@
 
 ### Estructura del proyecto:
 
-  +idea
-  -src
-    -test
-      -java
-        +StepDefinitions
-        -TestRunner.java
-      -resources
-        -GamesFeatures
-  -target
-    -cucumber_json
-    -test-classes
-      -GamesFeatures
-      -StepDefinitions
-      -TestRunner
-  README.md
-  pom.xml
+          +idea
+          -src
+            -test
+              -java
+                +StepDefinitions
+                -TestRunner.java
+              -resources
+                -GamesFeatures
+          -target
+            -cucumber_json
+            -test-classes
+              -GamesFeatures
+              -StepDefinitions
+              -TestRunner
+          README.md
+          pom.xml
